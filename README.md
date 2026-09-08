@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0541-reverse-string-ii](https://github.com/Jinendra4343/Leetcode/tree/master/0541-reverse-string-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Jinendra4343/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jinendra4343/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Jinendra4343/Leetcode/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
